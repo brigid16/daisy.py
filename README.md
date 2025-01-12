@@ -1,3 +1,2 @@
 # daisy.py
-SO French
-4am File 
+SO French. 4am File 
